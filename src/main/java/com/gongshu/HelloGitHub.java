@@ -5,5 +5,7 @@ public class HelloGitHub {
         System.out.println("hello github! i'm from idea!");
         System.out.println("test push! from idea!");
         System.out.println("333333");
+
+        System.out.println("...");
     }
 }
